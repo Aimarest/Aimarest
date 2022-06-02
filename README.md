@@ -1,11 +1,11 @@
  Hi! I’m @Aimarest 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
- 👀 I’m interested in learning HTML, CSS and JavaScript
+ 👀 I’m interested in learning about programming
  
- 🌱 I’m currently studying at Adalab
+ 🌱 I just finished my studies at Adalab's intensive web programming bootcamp
  
- 💞️ I’m looking to work as a frontend developer
+ 💞️ I’m looking for my first job as a frontend developer.I dont have professional experience yet, but I'm very excited and motivated!!
 
 
 <!---
