@@ -1,11 +1,12 @@
- Hi! I’m @Aimarest 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ # Hi! I’m @Aimarest <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
  👀 I’m interested in learning about programming
  
- 🌱 I just finished my studies at Adalab's intensive web programming bootcamp
+ 🌱 I did an intensive online web development course with Adalab (Feb '22 - May '22).
+Then I continued training thanks to other online platforms with Udemy, OpenBootcamp and Platzi.
+I had the opportunity to do a software test automation bootcamp with Ntt Data, and I'm currently in training to work as a QA in that company.
  
- 💞️ I’m looking for my first job as a frontend developer.I dont have professional experience yet, but I'm very excited and motivated!!
+ 💞️ I love learning new things every day!, I'm very excited and motivated!!
 
 
 <!---
